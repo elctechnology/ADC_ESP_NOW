@@ -20,3 +20,6 @@ ADC_Pin Connection to ESP32
 We didn't use the I2S Microphone and OLED Display for this project.
 
 the project will be added soon.
+
+#electronic #ESP32 #AltiumDesginer #Arduino #STM32
+
